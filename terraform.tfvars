@@ -9,4 +9,4 @@ key = "DevOps-Shack"
 itype = "t2.micro"
 iname = "My-Instance"
 subnet_name = "my-subnet"
-instance_count = 1
+instance_count = 2
